@@ -42,6 +42,8 @@ Release Notes
 Tutorials
 ---
 - [Vue.js - Cookbook](https://vuejs.org/v2/cookbook/)
+- [Vue.js documentation](https://scrimba.com/playlist/pXKqta)
+- [Learn Vue.js for free](https://scrimba.com/g/glearnvue)
 - [Vue Essentials Cheat Sheet](https://codepop.com/Vue-Essentials-Cheat-Sheet.pdf)
 - [Vue Essentials Cheat Sheet](http://codepop.com/Vue-Essentials-Cheat-Sheet-Color-Darker.pdf)
 - [Vue Mastery - The ultimate learning resource for Vue developers](https://www.vuemastery.com/)
