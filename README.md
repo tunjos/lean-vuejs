@@ -78,5 +78,5 @@ Sample Apps
 Nuxt.js
 ---
 - [Nuxt.js - The Vue.js Framework](https://nuxtjs.org/)
-- [Vue Essentials Cheat Sheet](https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf)
+- [Nuxt.js Essentials Cheat Sheet](https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf)
 - [Why Use Nuxt.js?](https://player.vimeo.com/video/311756540)
